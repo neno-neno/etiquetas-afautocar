@@ -1,5 +1,5 @@
 // Guarda o app no aparelho para abrir sem internet; busca versão nova quando houver rede.
-const CACHE = 'etiquetas-20261101214023';
+const CACHE = 'etiquetas-20261101214336';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {
